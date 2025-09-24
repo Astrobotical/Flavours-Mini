@@ -1,0 +1,5 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: assets/splash/cook_splash.png
+  android: true
+  ios: true
